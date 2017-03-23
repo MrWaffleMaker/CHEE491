@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!--Arbitrary values-->
+<data>
+    <instrument>
+        <parameter>Moisture top</parameter>
+        <value>11</value>
+    </instrument>
+
+    <instrument>
+        <parameter>Moisture bottom</parameter>
+        <value>12</value>
+    </instrument>
+
+    <instrument>
+        <parameter>Valve opening</parameter>
+        <value>50</value>
+    </instrument>
+
+</data>
